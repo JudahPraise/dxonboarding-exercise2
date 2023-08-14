@@ -11,19 +11,27 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "uplb-primary": {
-          100: "#B24C63",
-          200: "#BBDEFB",
-          300: "#90CAF9",
-          // ... define more shades if needed
+        "uplb-maroon": {
+          100: "#c17171",
+          200: "#a94c4c",
+          300: "#924444",
+          400: "#6d3636",
+          500: "#562424",
         },
-        "uplb-secondary": {
-          100: "#E1F5FE",
-          200: "#B3E0F2",
-          300: "#81D4FA",
-          // ... define more shades if needed
+        "uplb-green": {
+          100: "#4a6741",
+          200: "#3f5a36",
+          300: "#374f2f",
+          400: "#304529",
+          500: "#22311d",
         },
-        // ... define more custom color themes
+        "uplb-yellow": {
+          100: "#4a6741",
+          200: "#3f5a36",
+          300: "#374f2f",
+          400: "#304529",
+          500: "#22311d",
+        },
       },
     },
   },
